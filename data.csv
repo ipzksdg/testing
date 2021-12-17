@@ -1,0 +1,5 @@
+labelId,labelName,samples,avgResponseTime(ms),avgThroughput,90line(ms),95line(ms),99line(ms),minResponseTime(ms),maxResponseTime(ms),avgBytes(KBytes/s),errorsRate,hasLabelPassedThresholds,concurrency
+ALL,ALL,600,33783,8,59091,60348,69419,179,75191,6971.53,93,,
+7d9a6b36ae0769a1ac71e406b38f842b,Get all owners,200,31635,3.18,38980,40819,43039,12365,43990,4148.12,100,,
+Register,Register,89,7886,3.18,22168,25256,27678,179,27678,1.6,52.81,,
+Test,Test,200,50674,3.18,60890,64885,74688,12544,75191,4149.72,100,,
